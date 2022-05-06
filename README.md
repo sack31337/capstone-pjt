@@ -7,6 +7,7 @@ This app is hostest at : https://flask-microblog-quest.herokuapp.com/ but the ap
 **Private Massaging**
 
 You can send a private message to a user via the user's profile page : `https://flask-microblog-quest.herokuapp.com/user/{{username}}`
+
 Unlike public postings, private messaging bodies are encrypted in the database.
 
 **Database Dump**
